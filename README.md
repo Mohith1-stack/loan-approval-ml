@@ -87,6 +87,7 @@ The target variable (`Loan_Status`) indicates:
 * Feature engineering significantly improved model performance
 * Credit History and Income were key factors influencing loan approval
 
+link : https://mohith1-stack-loan-approval-ml-appapp-v0blqi.streamlit.app/
 ---
 
 ## 🚀 Technologies Used
